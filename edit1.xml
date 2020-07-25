@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edit>
+ <!--Generated for edit1-->
+ <timestamp>
+  12:20, 19 March 2018
+ </timestamp>
+ <prevtext>
+  <line>
+   ==External links==
+  </line>
+  <line>
+   {{Commons}}
+  </line>
+  <line>
+   *[http://meadesshrine.blogspot.co.uk/p/shrine.html MeadesShrine] film archive
+  </line>
+  <line>
+   *[https://www.bbc.co.uk/search?q=Jonathan+Meades Jonathan Meades] at the &lt;ahref&gt;BBC&lt;/ahref&gt;
+  </line>
+  <Minus>
+   *{{official website|http://www.jonathanmeades.com|name=Official website}}
+  </Minus>
+  <Minus>
+   *{{official website|http://www.jonathanmeades.com|name=Official website}}
+  </Minus>
+ </prevtext>
+ <current_text>
+  <lines>
+   ==External links==
+  </lines>
+  <lines>
+   {{Commons}}
+  </lines>
+  <lines>
+   *[http://meadesshrine.blogspot.co.uk/p/shrine.html MeadesShrine] film archive
+  </lines>
+  <lines>
+   *[https://www.bbc.co.uk/search?q=Jonathan+Meades Jonathan Meades] at the &lt;ahref&gt;BBC&lt;/ahref&gt;
+  </lines>
+  <plus>
+   *{{official website|http://www.jonathanmeades.co.uk|name=Official website}}
+  </plus>
+  <plus>
+   *{{official website|http://www.jonathanmeades.co.uk|name=Official website}}
+  </plus>
+ </current_text>
+</edit>

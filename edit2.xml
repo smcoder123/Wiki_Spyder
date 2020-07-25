@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edit>
+ <!--Generated for edit2-->
+ <timestamp>
+  14:24, 5 March 2018
+ </timestamp>
+ <prevtext>
+  <line>
+   {{Use British English|date=May 2014}}
+  </line>
+  <line>
+   {{Use dmy dates|date=October 2017}}
+  </line>
+  <line>
+   {{Infobox television channel
+  </line>
+ </prevtext>
+ <current_text>
+  <lines>
+   {{Use British English|date=May 2014}}
+  </lines>
+  <lines>
+   {{Use dmy dates|date=October 2017}}
+  </lines>
+  <lines>
+   {{Infobox television channel
+  </lines>
+  <plus>
+   {{about|the British television channel||Five star}}
+  </plus>
+  <plus>
+   {{about|the British television channel||Five star}}
+  </plus>
+ </current_text>
+</edit>
