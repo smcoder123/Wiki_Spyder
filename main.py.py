@@ -174,7 +174,7 @@ for k in range(40341,len(link2)):
       
 
       #try:
-      os.chdir("D:\\ALL IIT KGP Intern\\Project_IITKGP_CNERG\\MainProjectFile\\"+link2[k]+"\\main_edits")      
+      os.chdir("\\Directory\\"+link2[k]+"\\main_edits")      
       filename="edit"+str(i)+".xml"
       tree.write(filename)
       bb = open(filename,'r').read()
